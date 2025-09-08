@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
  */
 public class MultiplesDefaultTest {
 
-    // TODO: When you are ready to test task X,
+    //  TODO: When you are ready to test task X,
     //  copy this file into the test folder.
     @Test
     public void testDefault() {
